@@ -1,0 +1,23 @@
+:ClrHome
+:Disp "TOPOLOGY"
+:Disp "========"
+:Disp ""
+:Disp "Study of shapes"
+:Disp "preserved under"
+:Disp "continuous"
+:Disp "deformations"
+:Disp ""
+:Pause
+:ClrHome
+:Disp "TOPOLOGY"
+:Disp "========"
+:Disp ""
+:Disp "EULER CHAR:"
+:Disp "χ=V-E+F"
+:Disp "Vertices-Edges+Faces"
+:Disp ""
+:Disp "HOMEOMORPHISM:"
+:Disp "Continuous bijection"
+:Disp "with continuous inverse"
+:Disp ""
+:Pause
