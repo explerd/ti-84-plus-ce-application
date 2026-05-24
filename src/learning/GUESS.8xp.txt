@@ -1,0 +1,25 @@
+:ClrHome
+:Disp "NUMBER GUESSER"
+:Disp "=============="
+:Disp ""
+:randInt(1,100)→N
+:0→G
+:Disp "I chose 1-100"
+:Disp "Guess my number!"
+:While 1
+:Input "Guess: ",X
+:G+1→G
+:If X=N:Then
+:ClrHome
+:Disp "CORRECT!"
+:Disp "Guesses: ",G
+:Pause
+:Stop
+:End
+:If X<N:Then
+:Disp "Too low!"
+:End
+:If X>N:Then
+:Disp "Too high!"
+:End
+:End
