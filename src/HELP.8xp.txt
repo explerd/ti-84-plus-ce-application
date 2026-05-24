@@ -1,0 +1,36 @@
+:ClrHome
+:Disp "HELP MENU"
+:Disp "========="
+:Disp ""
+:Disp "NAVIGATION:"
+:Disp "• Use arrow keys"
+:Disp "• Press ENTER to"
+:Disp "  select"
+:Disp "• Press 2ND+MODE"
+:Disp "  (QUIT) to exit"
+:Disp ""
+:Pause
+:ClrHome
+:Disp "DEVICE INFO:"
+:Disp "• RAM: 154 KB"
+:Disp "• Storage: 3.5 MB"
+:Disp "• Language: TI-BASIC"
+:Disp "• Model: CE"
+:Disp ""
+:Pause
+:ClrHome
+:Disp "TIPS:"
+:Disp "• Pause after page"
+:Disp "• Press any key"
+:Disp "• Return to Menu"
+:Disp "• Check Learning Hub"
+:Disp "  for coding help"
+:Disp ""
+:Pause
+:ClrHome
+:Disp "ABOUT:"
+:Disp "TI-84 Mini Wiki v1.0"
+:Disp "Math, Physics, Tech"
+:Disp "Learning Hub included"
+:Disp ""
+:Pause
