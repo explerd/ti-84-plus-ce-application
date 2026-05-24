@@ -1,0 +1,27 @@
+:ClrHome
+:0→X
+:While 1
+:ClrHome
+:Disp "CONSTANTS"
+:Disp "========="
+:Disp ""
+:Disp "1. Pi (π)"
+:Disp "2. Planck's Constant"
+:Disp "3. Speed of Light"
+:Disp "4. Back to Menu"
+:Disp ""
+:Disp "Enter choice:"
+:Input X
+:If X=1:Then
+:prgmPI
+:End
+:If X=2:Then
+:prgmPLANCK
+:End
+:If X=3:Then
+:prgmLIGHT
+:End
+:If X=4:Then
+:Stop
+:End
+:End
