@@ -1,0 +1,39 @@
+:ClrHome
+:0→X
+:While 1
+:ClrHome
+:Disp "TECHNOLOGY"
+:Disp "=========="
+:Disp ""
+:Disp "1. Apple Inc."
+:Disp "2. Samsung"
+:Disp "3. TSMC"
+:Disp "4. NVIDIA"
+:Disp "5. Intel"
+:Disp "6. AMD"
+:Disp "7. Back to Menu"
+:Disp ""
+:Disp "Enter choice:"
+:Input X
+:If X=1:Then
+:prgmAPPLE
+:End
+:If X=2:Then
+:prgmSAMSNG
+:End
+:If X=3:Then
+:prgmTSMC
+:End
+:If X=4:Then
+:prgmNVIDIA
+:End
+:If X=5:Then
+:prgmINTEL
+:End
+:If X=6:Then
+:prgmAMD
+:End
+:If X=7:Then
+:Stop
+:End
+:End
