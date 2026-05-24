@@ -1,0 +1,45 @@
+:ClrHome
+:0→X
+:While 1
+:ClrHome
+:Disp "TI-84 MINI WIKI"
+:Disp "==============="
+:Disp ""
+:Disp "1. Learning Hub"
+:Disp "2. Mathematics"
+:Disp "3. Physics"
+:Disp "4. Constants"
+:Disp "5. Theorems"
+:Disp "6. Technology"
+:Disp "7. Help"
+:Disp "8. Exit"
+:Disp ""
+:Disp "Enter choice:"
+:Input X
+:If X=1:Then
+:prgmLEARN
+:End
+:If X=2:Then
+:prgmMATH
+:End
+:If X=3:Then
+:prgmPHYS
+:End
+:If X=4:Then
+:prgmCONST
+:End
+:If X=5:Then
+:prgmTHEOR
+:End
+:If X=6:Then
+:prgmTECH
+:End
+:If X=7:Then
+:prgmHELP
+:End
+:If X=8:Then
+:ClrHome
+:Disp "Goodbye!"
+:Stop
+:End
+:End
