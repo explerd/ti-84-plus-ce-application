@@ -1,0 +1,31 @@
+:ClrHome
+:0→X
+:While 1
+:ClrHome
+:Disp "PHYSICS"
+:Disp "======="
+:Disp ""
+:Disp "1. Maxwell's Equations"
+:Disp "2. Relativity"
+:Disp "3. Quantum Mechanics"
+:Disp "4. Chaos Theory"
+:Disp "5. Back to Menu"
+:Disp ""
+:Disp "Enter choice:"
+:Input X
+:If X=1:Then
+:prgmMAXWL
+:End
+:If X=2:Then
+:prgmREL
+:End
+:If X=3:Then
+:prgmQUANT
+:End
+:If X=4:Then
+:prgmCHAOS
+:End
+:If X=5:Then
+:Stop
+:End
+:End
