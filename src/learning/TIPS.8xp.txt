@@ -1,0 +1,27 @@
+:ClrHome
+:Disp "TIPS & TRICKS"
+:Disp "============="
+:Disp ""
+:Disp "MEMORY TIPS:"
+:Disp "• Use shorter vars"
+:Disp "• Delete unused prog"
+:Disp "• Archive data"
+:Disp "• Use lists (size)"
+:Disp ""
+:Pause
+:ClrHome
+:Disp "SPEED TIPS:"
+:Disp "• Minimize Disp()"
+:Disp "• Use ClrHome once"
+:Disp "• Avoid nested loops"
+:Disp "• Limit recursion"
+:Disp ""
+:Pause
+:ClrHome
+:Disp "DEBUGGING:"
+:Disp "• Use Disp to trace"
+:Disp "• Check variable typo"
+:Disp "• Test simple input"
+:Disp "• Look at error msg"
+:Disp ""
+:Pause
