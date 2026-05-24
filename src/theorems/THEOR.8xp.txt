@@ -1,0 +1,23 @@
+:ClrHome
+:0→X
+:While 1
+:ClrHome
+:Disp "THEOREMS"
+:Disp "========"
+:Disp ""
+:Disp "1. Pythagorean"
+:Disp "2. Bayes' Theorem"
+:Disp "3. Back to Menu"
+:Disp ""
+:Disp "Enter choice:"
+:Input X
+:If X=1:Then
+:prgmPYTH
+:End
+:If X=2:Then
+:prgmBAYES
+:End
+:If X=3:Then
+:Stop
+:End
+:End
