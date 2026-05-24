@@ -1,0 +1,35 @@
+:ClrHome
+:Disp "TI-BASIC TUTORIAL"
+:Disp "================="
+:Disp ""
+:Disp "BASICS:"
+:Disp "• : = command end"
+:Disp "• Input X  [enter]"
+:Disp "• Disp X   [show]"
+:Disp "• If condition:Then"
+:Disp "• For(I,1,10)"
+:Disp "• While 1 [loop]"
+:Disp ""
+:Pause
+:ClrHome
+:Disp "VARIABLES:"
+:Disp "• A-Z, θ for numbers"
+:Disp "• Lists: L₁,L₂,etc"
+:Disp "• Matrices: [A],[B]"
+:Disp ""
+:Disp "OPERATORS:"
+:Disp "• +, -, *, /, ^"
+:Disp "• √, ³√"
+:Disp "• = < > ≤ ≥ ≠"
+:Disp "• and, or, not"
+:Disp ""
+:Pause
+:ClrHome
+:Disp "FUNCTIONS:"
+:Disp "• abs(), int(), sin()"
+:Disp "• cos(), tan(), log()"
+:Disp "• ln(), e^x"
+:Disp "• rand (0-1)"
+:Disp "• round(X,N)"
+:Disp ""
+:Pause
